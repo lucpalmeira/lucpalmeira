@@ -3,7 +3,7 @@
 
 #### Mergulhando cada vez mais fundo na área de testes de software. Estou em transição de carreira  após um processo de autoconhecimento, descobrindo o quanto sou apaixonado pela tecnologia. Ao longo da minha jornada de vida seja como Engenheiro Agrônomo  e também como Marítimo  trago como bagagem bons relacionamentos interpessoais, comprometimento e responsabilidade.
 
-#### Conhecimento/ Estudando:  Testes Aǵeis, BDD, Processos e planejamento de testes, Postman, Junit5, RestAssured, Selenium, Conhecimento básico em JavaScript, conhecimento em HTML5, CSS, CSS moderno
+#### Conhecimento/ Estudando:  Testes Aǵeis, BDD, Processos e planejamento de testes, Postman, Junit5, RestAssured, Selenium, Conhecimento básico em JavaScript, conhecimento em HTML5, CSS3, CSS moderno
 
 ###
 
