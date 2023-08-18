@@ -3,8 +3,7 @@
 
 #### Mergulhando cada vez mais fundo na área de testes de software. Estou em transição de carreira cursando Análise e Desenvolvimento de Sistemas após um processo de autoconhecimento, descobrindo o quanto sou apaixonado pela tecnologia. Ao longo da minha jornada de vida seja como Engenheiro e também como Marítimo  trago como bagagem bons relacionamentos interpessoais, comprometimento e responsabilidade.
 
-#### Conhecimento/ Estudando:  Testes Aǵeis, Processos e planejamento de testes, BDD, Gherkin, Postman, Junit5, RestAssured, Maven, Selenium, Appium, Cucumber, Codeceptjs, Conhecimento em JavaScript, Java, HTML5, CSS3, CSS moderno
-
+#### Conhecimento/ Estudando: Postman, Junit5, RestAssured, Maven, Cucumber, GIT, Github Actions CI/CD, Selenium, Appium, codeceptJS, Playwright. Técnica BDD em linguagem Gherkin, Jira e diferentes linguagens: Programação - JavaScript e Java, Marcação - HTML5 e Estilização - CSS3, CSS moderno.
 ###
 
 #### Conecte-se comigo:
