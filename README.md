@@ -1,7 +1,7 @@
 
 ## Olá, seja bem - vindo! meu nome é Luciano 👋
 
-#### Mergulhando cada vez mais fundo na área de testes de software. Estou em transição de carreira cursando Análise e Desenvolvimento de Sistemas após um processo de autoconhecimento, descobrindo o quanto sou apaixonado pela tecnologia. Ao longo da minha jornada de vida seja como Engenheiro e também como Marítimo  trago como bagagem bons relacionamentos interpessoais, comprometimento e responsabilidade.
+#### Mergulhando cada vez mais fundo na área de testes de software. Ao longo da minha jornada de vida como Engenheiro trago como bagagem bons relacionamentos interpessoais, comprometimento e responsabilidade.
 
 #### Conhecimento/ Estudando: Postman, Junit5, RestAssured, Maven, Cucumber, GIT, Github Actions CI/CD, Selenium, Appium, codeceptJS, Playwright. Técnica BDD em linguagem Gherkin, Jira e diferentes linguagens: Programação - JavaScript e Java, Marcação - HTML5 e Estilização - CSS3, CSS moderno.
 ###
